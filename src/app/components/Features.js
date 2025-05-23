@@ -134,7 +134,7 @@ export default function Features() {
             <div className="container-fluid cor-sec-pdn">
                 <div className="row m-0">
                     <div className="col-md-6 col-sm-6 cor-topic">
-                        <div className="cor-sus-section"><img src="images/icons/people-icon.jpg" alt="" className="img-responsive" /></div>
+                        <div className="cor-sus-section"><Image src="images/icons/people-icon.jpg" alt="" className="img-responsive" /></div>
                         <div className="cor-text-section">
                             <div className="head BoldFont">Corporate sustainability</div>
                             <div className="description">We focus on the long-term sustainability of BlackRock so we can continue to deliver value to our clients, shareholders, employees, and communities.</div>
@@ -147,7 +147,7 @@ export default function Features() {
                         </div>
                     </div>
                     <div className="col-md-6 col-sm-6 cor-topic">
-                        <div className="cor-sus-section"><img src="images/icons/lightbulb-icon.jpg" alt="" className="img-responsive" /></div>
+                        <div className="cor-sus-section"><Image src="images/icons/lightbulb-icon.jpg" alt="" className="img-responsive" /></div>
                         <div className="cor-text-section">
                             <div className="head BoldFont">Investment stewardship</div>
                             <div className="description">We engage with companies to inform our voting and promote sound corporate governance that is consistent with long-term financial value creation.</div>
