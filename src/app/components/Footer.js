@@ -95,7 +95,7 @@ export default function Footer() {
                 <div className="footer-container">
 
                     <div className="footer-left">
-                        <img src="images/logo/blackrock-logo-white.svg" alt="" />
+                        <Image src="images/logo/blackrock-logo-white.svg" alt="" />
                         <p>
                             As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.
                         </p>
