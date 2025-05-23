@@ -7,7 +7,7 @@ export default function Hero() {
             <div className="container-fluid home-bnr-bg">
                 <div className="row m-0">
                     <div className="col-sm-12 col-md-6 home-banner-tp">
-                        <h1 className="BoldFont">Preqin is now a part of >BlackRock</h1>
+                        <h1 className="BoldFont">Preqin is now a part of BlackRock</h1>
                         <div className="description">Combining Preqins investment data</div>
 
                         <div className="btn-container">
