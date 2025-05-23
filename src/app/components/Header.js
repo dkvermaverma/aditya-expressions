@@ -21,7 +21,7 @@ export default function Header() {
                             <span className="icon-bar"></span>
                             <span className="icon-bar"></span>
                         </button>
-                        <Link className="navbar-brand" href="/"><img src="images/logo/blackrock-logo.svg" alt="BlackRock" /></Link>
+                        <Link className="navbar-brand" href="/"><Image src="images/logo/blackrock-logo.svg" alt="BlackRock" /></Link>
                     </div>
 
                     <div className="navbar-collapse collapse">
